@@ -1,7 +1,6 @@
 # Maseer
 
 Maseer is a smart indoor navigation system developed for the CCIS building at Princess Nourah University to improve navigation inside large buildings and campuses.
-
 The system provides real-time indoor guidance using BLE beacon technology, RSSI-based positioning, and Kalman Filter optimization to enhance location accuracy and user experience.
 
 ## Features
