@@ -22,6 +22,6 @@ The system provides real-time indoor guidance using BLE beacons, RSSI-based posi
 - Dart
 
 ## Demo Videos
-- Maseer Demo
-- Search & Preview Route Features
-- Beacon + Kalman Multi-turn Path
+- [Maseer Demo](./Maseer%20Demo.mp4)
+- [Search & Preview Route Features](./Search%20&%20Preview%20Route%20features.mp4)
+- [Beacon + Kalman Multi-turn Path](./Beacon%20+%20Kalman,%20multi-turn%20path.mp4)
